@@ -21,7 +21,6 @@ to stay lean and app finder finds places with those ingredients chosen.
 - RestaurantFinderActivity - finds the nearest location using maps or satellite app.
 
 
-
 -- -
 ### Pitch #2
 
@@ -42,26 +41,38 @@ to stay lean and app finder finds places with those ingredients chosen.
 **Feature Task 2:**
 - History log that shows all workouts(calendar)
 
-**Feature Task 3:**
-- Encouraging quotes API
+-- -
 
-**Feature Task 4:**
-- QR code scan foods and give foods information via API(recommended protein intake based on users height and weight)
+### Stretch Goals
 
-**Feature Task 5:**
-- Provide Workout Routines Mon-Fri. (Ex: 3x135);
+**Feature Tasks:**
 
-**Feature Task 6:**
-- Shows which muscle groups are fatigued/worked out. 
-- Show Recommended rest days
+1. Encouraging quotes API
 
-**Feature Task 7:**
-- Show the nearest location of gym
+2. Provide Workout Routines Mon-Fri. (Ex: 3x135);
 
-**Stretch Goals:**
-- **Feature Task A1:** Implement share to social media that compare streaks and toasts the results to facebook(accountability feature).
-- **Feature Task A2:** Facebook SignON
-- **Feature Task B:** Sample videos of workouts of how to do the workouts (API). properly do squats, etc. hard code the videos
-- **Feature Task C:** Automate these Feature Tasks.
-- **Feature Task D:** Provide a selection of customized workout based on training goal(Mass gain/Weight Loss/Build Lean Muscle)
-- **Feature Task E:** GPS feature that shows distance travelled/location travelled/speed travelled.
+3. Shows which muscle groups are fatigued/worked out. 
+
+4. Show Recommended rest days
+
+5. Show the nearest location of gym
+
+6. QR code scan foods and give foods information via API(recommended protein intake based on users height and weight)
+
+7. Implement share to social media that compare streaks and toasts the results to facebook(accountability feature).
+
+8. Facebook SignON
+
+9. Sample videos of workouts of how to do the workouts (API). properly do squats, etc. hard code the videos
+
+10. Automate these Feature Tasks.
+
+11. Provide a selection of customized workout based on training goal(Mass gain/Weight Loss/Build Lean Muscle)
+
+12. GPS feature that shows distance travelled/location travelled/speed travelled.
+
+13. Encouraging quotes API
+
+14. Shows which muscle groups are fatigued/worked out.
+
+15. Show Recommended rest days
