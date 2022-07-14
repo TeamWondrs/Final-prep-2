@@ -30,13 +30,14 @@ to stay lean and app finder finds places with those ingredients chosen.
 **Summary of idea:**  
 
 **What Problem or pain point does it solve?**  
-- BetterMe gives new and regular gym users a place to record their BMI and display a history log that shows a workout routine Mon-Fri. It will also provide its users with motivational quotes to keep them fired up and ready to train.
+- BetterMe gives new and regular gym users a place to record their BMI and display a history log that shows a workout streak Mon-Fri.  
+- Provide its users with motivational quotes to keep them fired up and ready to train.
 
 
 **Minimum Viable Product (MVP)**
 
 **Feature Task 1:**
-- Fitness App record the days workout with body weight (BMI POSSIBLY, measurements)
+- Fitness App record the day's workout with body weight (BMI POSSIBLY, measurements)
 
 **Feature Task 2:**
 - History log that shows all workouts(calendar)
@@ -45,10 +46,22 @@ to stay lean and app finder finds places with those ingredients chosen.
 - Encouraging quotes API
 
 **Feature Task 4:**
-- QR code scan foods and give foods information via API
+- QR code scan foods and give foods information via API(recommended protein intake based on users height and weight)
+
+**Feature Task 5:**
+- Provide Workout Routines Mon-Fri. (Ex: 3x135);
+
+**Feature Task 6:**
+- Shows which muscle groups are fatigued/worked out. 
+- Show Recommended rest days
+
+**Feature Task 7:**
+- Show the nearest location of gym
 
 **Stretch Goals:**
-- **Feature Task A1:** Implement share to social media that compare streaks and toasts the results to facebook(accountablity feature).
+- **Feature Task A1:** Implement share to social media that compare streaks and toasts the results to facebook(accountability feature).
 - **Feature Task A2:** Facebook SignON
 - **Feature Task B:** Sample videos of workouts of how to do the workouts (API). properly do squats, etc. hard code the videos
 - **Feature Task C:** Automate these Feature Tasks.
+- **Feature Task D:** Provide a selection of customized workout based on training goal(Mass gain/Weight Loss/Build Lean Muscle)
+- **Feature Task E:** GPS feature that shows distance travelled/location travelled/speed travelled.
